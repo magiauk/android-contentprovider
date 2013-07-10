@@ -4,5 +4,7 @@
     <string name="app_name">ContentProvider</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+    <string name="message_progress">データを登録中…</string>
+    <string name="message_network">ネットワークに接続されていません</string>
+    <string name="message_error">エラーが発生しました</string>
 </resources>
